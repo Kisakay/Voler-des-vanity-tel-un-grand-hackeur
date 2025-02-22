@@ -1,0 +1,7 @@
+{
+  "name": "voler-des-vanity-tel-un-hackeur",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js-selfbot-v13-kisakay-patch": "^3.6.0"
+  }
+}
