@@ -1,50 +1,49 @@
-# tuto2delahess
-j'ai manger du clown aujourd'hui
-# comment recup la totp key machin chouette (by Kisakay)
+# tuto2delahess  
+J'ai mangé du clown aujourd'hui.  
 
-# instant promo:
-tu cherche à protéger ton serveur du vole de ton vanity ? 
-Je viens de codée un lock vanity sur mon selfbot:
-https://github.com/Kisakay/Discord-Selfbot-Example/
+# Comment récupérer la TOTP key machin chouette (by Kisakay)  
 
-# step 1
-![alt text](./imgs/step_1.png)
+# Instant promo :  
+Tu cherches à protéger ton serveur du vol de ton vanity ?  
+Je viens de coder un lock vanity sur mon selfbot :  
+[https://github.com/Kisakay/Discord-Selfbot-Example/](https://github.com/Kisakay/Discord-Selfbot-Example/)  
 
-activer l'a2f:
-tu rentre ton mdp pour l'activer
+# Step 1  
+![alt text](./imgs/step_1.png)  
 
-# step 2
+**Activer l'A2F :**  
+Tu rentres ton mot de passe pour l'activer.  
 
-![alt text](./imgs/step_2.png)
+# Step 2  
+![alt text](./imgs/step_2.png)  
 
-<br>
-RÉCUPÈRE LE CODE SECRET: 
+**Récupère le code secret :**  
 
-iqme ---- ---- ---- ---- ---- ---- vob7
+iqme ---- ---- ---- ---- ---- ---- vob7  
 
-C'EST TON FAMEUX CODE CHACAL
+C'EST TON FAMEUX CODE, CHACAL.  
 
-# ATTENTION:
+# ATTENTION :  
+Tu dois quand même activer l'A2F !!!  
+Utilise Authy, par exemple.  
 
-tu dois quand même activer l'a2f!!!
-Utilise authy par exemple
+---
 
+# Tuto 2 la hesse, partie 2 - Récupérer le token (toujours by Kisakay)  
+Ouvre ton navigateur, stp, et connecte-toi sur [discord.com/app](https://discord.com/app).  
 
-# tuto 2 la hesse partit 2 - récup le token (tjr by Kisakay)
-ouvre ton naviguateur stp et tu te login sur discord.com/app
-
-F12 / CTRL + MAJ + I => tel un grand hackeur, onglet "console" copie cela:
+F12 / CTRL + MAJ + I => tel un grand hacker, onglet "Console", copie ceci :  
 
 ```js
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
-```
+```  
 
-Si le truc te dis: "euh gros jcrois c pas bien tu peux pas coller"
-écris un truc du style "allow pasting" (sa dépenderas de ta langue sur ton pc bébé)
+Si le truc te dit : *"Euh gros, j'crois c'est pas bien, tu peux pas coller"*,  
+écris un truc du style **"allow pasting"** (ça dépendra de la langue de ton PC, bébé).  
 
-# mtn tu est ready pour volé les vanity url discordiens! (omg)
+# Maintenant, tu es ready pour voler les vanity URLs discordiens ! (omg)  
 
-Rejoins ce serveur discord si tu veut pas te faire manger par une araignée :
-https://discord.gg/ihorizon
+Rejoins ce serveur Discord si tu veux pas te faire manger par une araignée :  
+[https://discord.gg/ihorizon](https://discord.gg/ihorizon)  
 
-![alt text](./imgs/ma_pub_en_toute_discretion.png)
+![alt text](./imgs/ma_pub_en_toute_discretion.png)  
