@@ -2,6 +2,11 @@
 j'ai manger du clown aujourd'hui
 # comment recup la totp key machin chouette (by Kisakay)
 
+# instant promo:
+tu cherche à protéger ton serveur du vole de ton vanity ? 
+Je viens de codée un lock vanity sur mon selfbot:
+https://github.com/Kisakay/Discord-Selfbot-Example/
+
 # step 1
 ![alt text](./imgs/step_1.png)
 
@@ -40,6 +45,6 @@ Si le truc te dis: "euh gros jcrois c pas bien tu peux pas coller"
 # mtn tu est ready pour volé les vanity url discordiens! (omg)
 
 Rejoins ce serveur discord si tu veut pas te faire manger par une araignée :
-
+https://discord.gg/ihorizon
 
 ![alt text](./imgs/ma_pub_en_toute_discretion.png)
