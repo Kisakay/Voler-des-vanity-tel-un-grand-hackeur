@@ -7,6 +7,7 @@ J'ai mangé du clown aujourd'hui.
 Tu cherches à protéger ton serveur du vol de ton vanity ?  
 Je viens de coder un lock vanity sur mon selfbot :  
 [https://github.com/Kisakay/Discord-Selfbot-Example/](https://github.com/Kisakay/Discord-Selfbot-Example/)  
+[démo du lock vanity](https://youtu.be/R0KUsvZKPvQ)
 
 # Step 1  
 ![alt text](./imgs/step_1.png)  
